@@ -1,11 +1,15 @@
-# We're officially live! 🎉
 
-Go to https://mcskinn.inkore.app/ and have fun!
-Don't forget to report bugs & suggestions here!
+<p align="center">
+  <a href="https://inkore.net/products/mcskinn/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/product_tile.png">
+  </a>
+</p>
 
----
+<p align="center">☃️ The definitive Skin & Texture Editor for Low-polys (like Minecraft)</p>
 
-Note: This is a beta version, which means bugs may appear. Please save your work before it's too late.
+<h1 align="center">
+  MCSkinn
+</h1>
 
 <p align="center">
     <a href="https://inkore.net/products/mcskinn/">Official Website</a> | <a href="https://docs.inkore.net/zh-cn/mcskinn/introduction">Documentation</a></p>
